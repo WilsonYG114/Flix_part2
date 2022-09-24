@@ -11,7 +11,7 @@
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 
-<img src="https://i.imgur.com/CVMlRAk.gif" width=250><br>
+<img src="https://i.imgur.com/CNzR7Ba.gif" width=250><br>
 
 ### Notes
 Cannot get the poster image to lineup correctly 
